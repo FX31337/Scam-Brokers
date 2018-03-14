@@ -1,0 +1,148 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     30909 8 2 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CFC41A5766
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2017-10-05
+source:       IANA
+
+   Domain Name: TRADEU2.COM
+   Registry Domain ID: 2097544862_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.rrpproxy.net
+   Registrar URL: http://www.key-systems.net
+   Updated Date: 2017-07-03T15:13:38Z
+   Creation Date: 2017-02-13T22:12:21Z
+   Registry Expiry Date: 2019-02-13T22:12:21Z
+   Registrar: Key-Systems GmbH
+   Registrar IANA ID: 269
+   Registrar Abuse Contact Email: abuse@key-systems.net
+   Registrar Abuse Contact Phone: +49.68949396850
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.LEASEWEB.NL
+   Name Server: NS4.LEASEWEB.NET
+   Name Server: NS5.LEASEWEB.NL
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2018-03-09T00:01:21Z <<<
+
+Domain Name: tradeu2.com
+Registry Domain ID: 2097544862_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.leaseweb.com
+Updated Date: 2017-07-03T15:13:38.0Z
+Creation Date: 2017-02-13T22:12:21.0Z
+Registrar Registration Expiration Date: 2019-02-13T22:12:21.0Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of tradeu2.com OWNER
+Registrant Organization: c/o whoisproxy.com
+Registrant Street: 604 Cameron Street
+Registrant City: Alexandria
+Registrant State/Province: VA
+Registrant Postal Code: 22314
+Registrant Country: US
+Registrant Phone: +64.48319528
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: a2561059986460f7d0ab91923e327f25d9a5e1ba33fe7a53fb7f8334c1110955@tradeu2.com.whoisproxy.org
+Registry Admin ID: Not Available From Registry
+Admin Name: On behalf of tradeu2.com ADMIN
+Admin Organization: c/o whoisproxy.com
+Admin Street: 604 Cameron Street
+Admin City: Alexandria
+Admin State/Province: VA
+Admin Postal Code: 22314
+Admin Country: US
+Admin Phone: +64.48319528
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: a2561059986460f7d0ab91923e327f25d9a5e1ba33fe7a53fb7f8334c1110955@tradeu2.com.whoisproxy.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of tradeu2.com TECH
+Tech Organization: c/o whoisproxy.com
+Tech Street: 604 Cameron Street
+Tech City: Alexandria
+Tech Postal Code: 22314
+Tech State/Province: VA
+Tech Country: US
+Tech Phone: +64.48319528
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: a2561059986460f7d0ab91923e327f25d9a5e1ba33fe7a53fb7f8334c1110955@tradeu2.com.whoisproxy.org
+Registry Billing ID: Not Available From Registry
+Billing Name: On behalf of tradeu2.com BILLING
+Billing Organization: c/o whoisproxy.com
+Billing Street: 604 Cameron Street
+Billing City: Alexandria
+Billing State/Province: VA
+Billing Postal Code: 22314
+Billing Country: US
+Billing Phone: +64.48319528
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: a2561059986460f7d0ab91923e327f25d9a5e1ba33fe7a53fb7f8334c1110955@tradeu2.com.whoisproxy.org
+Name Server: ns1.leaseweb.nl 
+Name Server: ns4.leaseweb.net 
+Name Server: ns5.leaseweb.nl 
+DNSSEC: unsigned
+Whoisprivacy: 1
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-09T00:01:36.0Z <<<
+

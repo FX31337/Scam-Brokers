@@ -1,0 +1,108 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      69.0.0.0 - 69.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2002-08
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 69.195.79.150"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=69.195.79.150?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       69.195.64.0 - 69.195.127.255
+CIDR:           69.195.64.0/18
+NetName:        UNIFIEDLAYER-NETWORK-7
+NetHandle:      NET-69-195-64-0-1
+Parent:         NET69 (NET-69-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS46606
+Organization:   Unified Layer (BLUEH-2)
+RegDate:        2010-07-01
+Updated:        2012-11-14
+Ref:            https://whois.arin.net/rest/net/NET-69-195-64-0-1
+
+
+OrgName:        Unified Layer
+OrgId:          BLUEH-2
+Address:        1958 South 950 East
+City:           Provo
+StateProv:      UT
+PostalCode:     84606
+Country:        US
+RegDate:        2006-08-08
+Updated:        2017-07-31
+Ref:            https://whois.arin.net/rest/org/BLUEH-2
+
+ReferralServer:  rwhois://rwhois.unifiedlayer.com:4321
+
+OrgTechHandle: NETWO5508-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-888-401-4678 
+OrgTechEmail:  netops@unifiedlayer.com
+OrgTechRef:    https://whois.arin.net/rest/poc/NETWO5508-ARIN
+
+OrgNOCHandle: NETWO5508-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-888-401-4678 
+OrgNOCEmail:  netops@unifiedlayer.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/NETWO5508-ARIN
+
+OrgAbuseHandle: ABUSE3581-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-888-401-4678 
+OrgAbuseEmail:  abuse@unifiedlayer.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/ABUSE3581-ARIN
+
+RAbuseHandle: NOC2320-ARIN
+RAbuseName:   Network Operations Center
+RAbusePhone:  +1-801-765-9400 
+RAbuseEmail:  abuse@bluehost.com
+RAbuseRef:    https://whois.arin.net/rest/poc/NOC2320-ARIN
+
+RNOCHandle: TECHN497-ARIN
+RNOCName:   Technical Operations
+RNOCPhone:  +1-801-765-9400 
+RNOCEmail:  support@bluehost.com
+RNOCRef:    https://whois.arin.net/rest/poc/TECHN497-ARIN
+
+RTechHandle: NETWO2081-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-801-765-9400 
+RTechEmail:  netops@bluehost.com
+RTechRef:    https://whois.arin.net/rest/poc/NETWO2081-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

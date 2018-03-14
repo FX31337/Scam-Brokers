@@ -1,0 +1,189 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     30909 8 2 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CFC41A5766
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2017-10-05
+source:       IANA
+
+   Domain Name: P2TRADES.COM
+   Registry Domain ID: 2230317439_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.PublicDomainRegistry.com
+   Registrar URL: http://www.publicdomainregistry.com
+   Updated Date: 2018-02-21T08:00:00Z
+   Creation Date: 2018-02-21T07:59:59Z
+   Registry Expiry Date: 2019-02-21T07:59:59Z
+   Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+   Registrar IANA ID: 303
+   Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+   Registrar Abuse Contact Phone: +1.2013775952
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: DNS3.PARKPAGE.FOUNDATIONAPI.COM
+   Name Server: DNS4.PARKPAGE.FOUNDATIONAPI.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2018-03-11T16:49:32Z <<<
+
+Domain Name: P2TRADES.COM
+Registry Domain ID: 2230317439_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2018-02-21T07:59:40Z
+Creation Date: 2018-02-21T07:59:59Z
+Registrar Registration Expiration Date: 2019-02-21T07:59:59Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Naveen Margan
+Registrant Organization: 
+Registrant Street: 47samanagar   
+Registrant City: tpt
+Registrant State/Province: Tamil Nadu
+Registrant Postal Code: 635601
+Registrant Country: IN
+Registrant Phone: +91.9600437009
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: nav3m@live.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Naveen Margan
+Admin Organization: 
+Admin Street: 47samanagar  
+Admin City: tpt
+Admin State/Province: Tamil Nadu
+Admin Postal Code: 635601
+Admin Country: IN
+Admin Phone: +91.9600437009
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: nav3m@live.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Naveen Margan
+Tech Organization: 
+Tech Street: 47samanagar  
+Tech City: tpt
+Tech State/Province: Tamil Nadu
+Tech Postal Code: 635601
+Tech Country: IN
+Tech Phone: +91.9600437009
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: nav3m@live.com
+Name Server: dns3.parkpage.foundationapi.com
+Name Server: dns4.parkpage.foundationapi.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-11T16:49:40Z <<<
+
+Domain Name: P2TRADES.COM
+Registry Domain ID: 2230317439_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2018-02-21T07:59:40Z
+Creation Date: 2018-02-21T07:59:59Z
+Registrar Registration Expiration Date: 2019-02-21T07:59:59Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Naveen Margan
+Registrant Organization: 
+Registrant Street: 47samanagar   
+Registrant City: tpt
+Registrant State/Province: Tamil Nadu
+Registrant Postal Code: 635601
+Registrant Country: IN
+Registrant Phone: +91.9600437009
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: nav3m@live.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Naveen Margan
+Admin Organization: 
+Admin Street: 47samanagar  
+Admin City: tpt
+Admin State/Province: Tamil Nadu
+Admin Postal Code: 635601
+Admin Country: IN
+Admin Phone: +91.9600437009
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: nav3m@live.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Naveen Margan
+Tech Organization: 
+Tech Street: 47samanagar  
+Tech City: tpt
+Tech State/Province: Tamil Nadu
+Tech Postal Code: 635601
+Tech Country: IN
+Tech Phone: +91.9600437009
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: nav3m@live.com
+Name Server: dns3.parkpage.foundationapi.com
+Name Server: dns4.parkpage.foundationapi.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-11T16:49:41Z <<<
+

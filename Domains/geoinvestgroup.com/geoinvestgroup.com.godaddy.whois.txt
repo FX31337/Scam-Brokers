@@ -1,0 +1,81 @@
+Domain Name: GEOINVESTGROUP.COM
+Registry Domain ID: 2144652698_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2017-07-19T16:09:00Z
+Creation Date: 2017-07-19T16:08:59Z
+Registrar Registration Expiration Date: 2018-07-19T16:08:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Ionakan Marusidze
+Registrant Organization: INVMARKETWORLD group lp Suite 110
+Registrant Street: 12 South Bridge
+Registrant City: Edinburgh
+Registrant State/Province: 
+Registrant Postal Code: EH1 1AD
+Registrant Country: UK
+Registrant Phone: +353.639341489
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: ionakan.marusidze@gmail.com
+Registry Admin ID: 
+Admin Name: Ionakan Marusidze
+Admin Organization: INVMARKETWORLD group lp Suite 110
+Admin Street: 12 South Bridge
+Admin City: Edinburgh
+Admin State/Province: 
+Admin Postal Code: EH1 1AD
+Admin Country: UK
+Admin Phone: +353.639341489
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: ionakan.marusidze@gmail.com
+Registry Tech ID: 
+Tech Name: Ionakan Marusidze
+Tech Organization: INVMARKETWORLD group lp Suite 110
+Tech Street: 12 South Bridge
+Tech City: Edinburgh
+Tech State/Province: 
+Tech Postal Code: EH1 1AD
+Tech Country: UK
+Tech Phone: +353.639341489
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: ionakan.marusidze@gmail.com
+Name Server: NS19.DOMAINCONTROL.COM
+Name Server: NS20.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-12T21:00:00Z <<< 
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data contained in GoDaddy.com, LLC's WHOIS database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy. This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC. By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty. In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+solicitations of any kind, including spam. You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section. In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.

@@ -1,0 +1,92 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      162.0.0.0 - 162.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 162.255.119.103"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=162.255.119.103?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       162.255.116.0 - 162.255.119.255
+CIDR:           162.255.116.0/22
+NetName:        NCNET-5
+NetHandle:      NET-162-255-116-0-1
+Parent:         NET162 (NET-162-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16626, AS174, AS4323, AS3356, AS22612, AS32421
+Organization:   Namecheap, Inc. (NAMEC-4)
+RegDate:        2014-05-14
+Updated:        2015-03-24
+Comment:        http://namecheap.com
+Comment:        for any abuse please use: abuse@namecheap.com
+Ref:            https://whois.arin.net/rest/net/NET-162-255-116-0-1
+
+
+OrgName:        Namecheap, Inc.
+OrgId:          NAMEC-4
+Address:        11400 W. Olympic Blvd. Suite 200
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90064
+Country:        US
+RegDate:        2011-01-28
+Updated:        2017-01-28
+Ref:            https://whois.arin.net/rest/org/NAMEC-4
+
+ReferralServer:  rwhois://whois.namecheaphosting.com:4321
+
+OrgTechHandle: EFIME-ARIN
+OrgTechName:   Efimenko, Igor 
+OrgTechPhone:  +1-323-375-2822 
+OrgTechEmail:  igor.e@namecheap.com
+OrgTechRef:    https://whois.arin.net/rest/poc/EFIME-ARIN
+
+OrgTechHandle: TECHT4-ARIN
+OrgTechName:   Tech team
+OrgTechPhone:  +1-323-375-2822 
+OrgTechEmail:  tech@namecheaphosting.com
+OrgTechRef:    https://whois.arin.net/rest/poc/TECHT4-ARIN
+
+OrgAbuseHandle: ABUSE2885-ARIN
+OrgAbuseName:   Abuse team
+OrgAbusePhone:  +1-323-375-2822 
+OrgAbuseEmail:  abuse@namecheaphosting.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/ABUSE2885-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

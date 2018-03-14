@@ -1,0 +1,83 @@
+Domain Name: CHRONOFM.COM
+Registry Domain ID: 2139570175_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2017-09-28T09:40:45Z
+Creation Date: 2017-07-03T18:28:13Z
+Registrar Registration Expiration Date: 2020-07-03T18:28:13Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Petyo Donchev Zlatev
+Registrant Organization: Sanata Group EOOD
+Registrant Street: Sredets District 9 Fridtjof Nansen Str.7
+Registrant City: Sofia
+Registrant State/Province: 
+Registrant Postal Code: 1142
+Registrant Country: MK
+Registrant Phone: +44.203807004
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: chronofxmarket@gmail.com
+Registry Admin ID: 
+Admin Name: Petyo Donchev Zlatev
+Admin Organization: Sanata Group EOOD
+Admin Street: Sredets District 9 Fridtjof Nansen Str.7
+Admin City: Sofia
+Admin State/Province: 
+Admin Postal Code: 1142
+Admin Country: MK
+Admin Phone: +44.203807004
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: chronofxmarket@gmail.com
+Registry Tech ID: 
+Tech Name: Petyo Donchev Zlatev
+Tech Organization: Sanata Group EOOD
+Tech Street: Sredets District 9 Fridtjof Nansen Str.7
+Tech City: Sofia
+Tech State/Province: 
+Tech Postal Code: 1142
+Tech Country: MK
+Tech Phone: +44.203807004
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: chronofxmarket@gmail.com
+Name Server: NS-134.AWSDNS-16.COM
+Name Server: NS-1987.AWSDNS-56.CO.UK
+Name Server: NS-718.AWSDNS-25.NET
+Name Server: NS-1212.AWSDNS-23.ORG
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-12T21:00:00Z <<< 
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data contained in GoDaddy.com, LLC's WHOIS database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy. This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC. By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty. In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+solicitations of any kind, including spam. You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section. In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.

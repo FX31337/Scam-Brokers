@@ -1,0 +1,80 @@
+Domain Name: oppwa.com
+Registry Domain ID: 1876921600_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrygate.com
+Registrar URL: www.registrygate.com
+Updated Date: 2017-09-23T07:21:58.0Z
+Creation Date: 2014-09-22T12:59:42.0Z
+Registrar Registration Expiration Date: 2018-09-22T12:59:42.0Z
+Registrar: RegistryGate GmbH
+Registrar IANA ID: 1328
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +49.1805734437
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Alexander Huemer
+Registrant Organization: ACI Worldwide (Germany) GmbH
+Registrant Street: Grillparzerstrasse 18
+Registrant City: Muenchen
+Registrant State/Province: 
+Registrant Postal Code: 81675
+Registrant Country: DE
+Registrant Phone: +49.8945230428
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: mbox-payon-ops-vendor-contact@aciworldwide.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Alexander Huemer
+Admin Organization: ACI Worldwide (Germany) GmbH
+Admin Street: Grillparzerstrasse 18
+Admin City: Muenchen
+Admin State/Province: 
+Admin Postal Code: 81675
+Admin Country: DE
+Admin Phone: +49.8945230428
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: mbox-payon-ops-vendor-contact@aciworldwide.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Alexander Huemer
+Tech Organization: ACI Worldwide (Germany) GmbH
+Tech Street: Grillparzerstrasse 18
+Tech City: Muenchen
+Tech Postal Code: 81675
+Tech State/Province: 
+Tech Country: DE
+Tech Phone: +49.8945230428
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: mbox-payon-ops-vendor-contact@aciworldwide.com
+Registry Billing ID: Not Available From Registry
+Billing Name: Alexander Huemer
+Billing Organization: ACI Worldwide (Germany) GmbH
+Billing Street: Grillparzerstrasse 18
+Billing City: Muenchen
+Billing State/Province: 
+Billing Postal Code: 81675
+Billing Country: DE
+Billing Phone: +49.8945230428
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: mbox-payon-ops-vendor-contact@aciworldwide.com
+Name Server: ns1.p13.dynect.net 
+Name Server: ns2.p13.dynect.net 
+Name Server: ns3.p13.dynect.net 
+Name Server: ns4.p13.dynect.net 
+Name Server: pdns1.ultradns.net 
+Name Server: pdns2.ultradns.net 
+Name Server: pdns3.ultradns.org 
+Name Server: pdns4.ultradns.org 
+Name Server: pdns5.ultradns.info 
+Name Server: pdns6.ultradns.co.uk 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+Please register your domains at; www.registrygate.com

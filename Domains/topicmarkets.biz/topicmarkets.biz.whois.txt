@@ -1,0 +1,154 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.biz
+
+domain:       BIZ
+
+organisation: Neustar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+
+contact:      administrative
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+phone:        +1 571 434-5168
+fax-no:       +1 571 434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+contact:      technical
+name:         Neustar Operations
+organisation: Neustar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+phone:        +1 571 434 5487
+fax-no:       +1 571 434-5401
+e-mail:       registrytechnical2@neustar.biz
+
+nserver:      A.GTLD.BIZ 156.154.124.65 2001:0502:ad09:0:0:0:0:30
+nserver:      B.GTLD.BIZ 156.154.125.65
+nserver:      C.GTLD.BIZ 156.154.127.65
+nserver:      E.GTLD.BIZ 156.154.126.65
+nserver:      F.GTLD.BIZ 2001:500:3682:0:0:0:0:12 209.173.58.66
+nserver:      K.GTLD.BIZ 156.154.128.65 2001:503:e239:0:0:0:3:2
+ds-rdata:     12385 8 2 AE03B95863B999FC84B725DF5C903511FF96D53825F0454CE6880987E96F5D20
+ds-rdata:     12385 8 1 E917523077754FB03308402D76144EAF0D4F6778
+ds-rdata:     28450 8 1 D9C2F912C657E4005CF0C13BA55C5AAA291AEF56
+ds-rdata:     28450 8 2 403F234609C56B3A221BC4CFB694948AB5DDF4A26AE17439BF1279CFC5CF21AB
+
+whois:        whois.biz
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.biz
+
+created:      2001-06-26
+changed:      2017-07-19
+source:       IANA
+
+Domain Name: topicmarkets.biz
+Registry Domain ID: D41E64B07C57B406BB67C18DE8D1C71BA-NSR
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: www.godaddy.com
+Updated Date: 2017-11-27T17:02:07Z
+Creation Date: 2017-11-22T17:02:06Z
+Registry Expiry Date: 2018-11-22T17:02:06Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: CA3C1A02FCE814AFDA09C304CCFB08D9B-NSR
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 14455 N. Hayden Road
+Registrant Street:
+Registrant City: Scottsdale
+Registrant State/Province: Arizona
+Registrant Postal Code: 85260
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: +1.4806242598
+Registrant Fax Ext:
+Registrant Email: topicmarkets.biz@domainsbyproxy.com
+Registry Admin ID: C125FFD358A2B4D598977885B052B9E98-NSR
+Admin Name: Registration Private
+Admin Organization: Domains By Proxy, LLC
+Admin Street: DomainsByProxy.com
+Admin Street: 14455 N. Hayden Road
+Admin Street:
+Admin City: Scottsdale
+Admin State/Province: Arizona
+Admin Postal Code: 85260
+Admin Country: US
+Admin Phone: +1.4806242599
+Admin Phone Ext:
+Admin Fax: +1.4806242598
+Admin Fax Ext:
+Admin Email: topicmarkets.biz@domainsbyproxy.com
+Registry Tech ID: CD5821B403F5D4EAF9410CB176B260D0E-NSR
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 14455 N. Hayden Road
+Tech Street:
+Tech City: Scottsdale
+Tech State/Province: Arizona
+Tech Postal Code: 85260
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: +1.4806242598
+Tech Fax Ext:
+Tech Email: topicmarkets.biz@domainsbyproxy.com
+Name Server: ns75.domaincontrol.com
+Name Server: ns76.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-03-10T23:28:57Z <<<
+
+Domain Name: topicmarkets.biz
+Registrar URL: http://www.godaddy.com
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Name Server: NS75.DOMAINCONTROL.COM
+Name Server: NS76.DOMAINCONTROL.COM
+DNSSEC: unsigned
+
+For complete domain details go to:
+http://who.godaddy.com/whoischeck.aspx?domain=topicmarkets.biz
+
+The data contained in GoDaddy.com, LLC's WhoIs database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section.  In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.
+Note: WHOIS consumers who are now receiving masked data can find instructions on how to apply for whitelisting here: 
+https://www.godaddy.com/help/masking-contact-information-shared-via-whois-automated-access-points-27421

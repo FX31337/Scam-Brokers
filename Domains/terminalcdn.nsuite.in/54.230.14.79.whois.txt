@@ -1,0 +1,155 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      54.0.0.0 - 54.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1992-03
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 54.230.14.79"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=54.230.14.79?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       54.230.0.0 - 54.231.255.255
+CIDR:           54.230.0.0/15
+NetName:        AMAZO-ZL4
+NetHandle:      NET-54-230-0-0-1
+Parent:         AMAZON-2011L (NET-54-224-0-0-1)
+NetType:        Reassigned
+OriginAS:       AS16509
+Organization:   Amazon.com, Inc. (AMAZO-4)
+RegDate:        2012-07-30
+Updated:        2012-07-30
+Ref:            https://whois.arin.net/rest/net/NET-54-230-0-0-1
+
+
+
+OrgName:        Amazon.com, Inc.
+OrgId:          AMAZO-4
+Address:        Amazon Web Services, Inc.
+Address:        P.O. Box 81226
+City:           Seattle
+StateProv:      WA
+PostalCode:     98108-1226
+Country:        US
+RegDate:        2005-09-29
+Updated:        2017-01-28
+Comment:        For details of this service please see
+Comment:        http://ec2.amazonaws.com/
+Ref:            https://whois.arin.net/rest/org/AMAZO-4
+
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  abuse@amazonaws.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  amzn-noc-contact@amazon.com
+OrgTechRef:    https://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-4064 
+OrgNOCEmail:  amzn-noc-contact@amazon.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/AANO1-ARIN
+
+# end
+
+
+# start
+
+NetRange:       54.224.0.0 - 54.239.255.255
+CIDR:           54.224.0.0/12
+NetName:        AMAZON-2011L
+NetHandle:      NET-54-224-0-0-1
+Parent:         NET54 (NET-54-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2012-03-01
+Updated:        2012-04-02
+Ref:            https://whois.arin.net/rest/net/NET-54-224-0-0-1
+
+
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2017-01-28
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://whois.arin.net/rest/org/AT-88-Z
+
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  abuse@amazonaws.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  amzn-noc-contact@amazon.com
+OrgTechRef:    https://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-4064 
+OrgNOCEmail:  amzn-noc-contact@amazon.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/AANO1-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

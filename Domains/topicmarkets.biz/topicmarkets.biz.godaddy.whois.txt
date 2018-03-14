@@ -1,0 +1,69 @@
+Domain Name: topicmarkets.biz
+Registry Domain ID: D41E64B07C57B406BB67C18DE8D1C71BA-NSR
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: www.godaddy.com
+Updated Date: 2017-11-27T17:02:07Z
+Creation Date: 2017-11-22T17:02:06Z
+Registry Expiry Date: 2018-11-22T17:02:06Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: CA3C1A02FCE814AFDA09C304CCFB08D9B-NSR
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 14455 N. Hayden Road
+Registrant Street:
+Registrant City: Scottsdale
+Registrant State/Province: Arizona
+Registrant Postal Code: 85260
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: +1.4806242598
+Registrant Fax Ext:
+Registrant Email: topicmarkets.biz@domainsbyproxy.com
+Registry Admin ID: C125FFD358A2B4D598977885B052B9E98-NSR
+Admin Name: Registration Private
+Admin Organization: Domains By Proxy, LLC
+Admin Street: DomainsByProxy.com
+Admin Street: 14455 N. Hayden Road
+Admin Street:
+Admin City: Scottsdale
+Admin State/Province: Arizona
+Admin Postal Code: 85260
+Admin Country: US
+Admin Phone: +1.4806242599
+Admin Phone Ext:
+Admin Fax: +1.4806242598
+Admin Fax Ext:
+Admin Email: topicmarkets.biz@domainsbyproxy.com
+Registry Tech ID: CD5821B403F5D4EAF9410CB176B260D0E-NSR
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 14455 N. Hayden Road
+Tech Street:
+Tech City: Scottsdale
+Tech State/Province: Arizona
+Tech Postal Code: 85260
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: +1.4806242598
+Tech Fax Ext:
+Tech Email: topicmarkets.biz@domainsbyproxy.com
+Name Server: ns75.domaincontrol.com
+Name Server: ns76.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-03-11T16:24:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Operator for .BIZ, has collected this information for the WHOIS database through an ICANN-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms.

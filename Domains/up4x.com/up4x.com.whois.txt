@@ -1,0 +1,191 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     30909 8 2 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CFC41A5766
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2017-10-05
+source:       IANA
+
+   Domain Name: UP4X.COM
+   Registry Domain ID: 2065453740_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.fastdomain.com
+   Registrar URL: http://www.fastdomain.com
+   Updated Date: 2017-10-05T15:57:54Z
+   Creation Date: 2016-10-11T19:03:28Z
+   Registry Expiry Date: 2018-10-11T19:03:28Z
+   Registrar: FastDomain, Inc.
+   Registrar IANA ID: 1154
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2018-03-11T20:26:53Z <<<
+
+Domain Name: UP4X.COM
+Registry Domain ID: 2065453740_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.bluehost.com
+Registrar URL: http://www.bluehost.com/
+Updated Date: 2017-10-05T15:57:54Z
+Creation Date: 2016-10-11T19:03:28Z
+Registrar Registration Expiration Date: 2018-10-11T19:03:28Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email: abuse@bluehost.com
+Registrar Abuse Contact Phone: +1.8017659400
+Reseller: BlueHost.Com
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: FAST-20690455 
+Registrant Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Organization: 
+Registrant Street: 560 E TIMPANOGOS PKWY  
+Registrant City: OREM
+Registrant State/Province: UTAH
+Registrant Postal Code: 84097
+Registrant Country: US
+Registrant Phone: +1.8017659400
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: WHOIS@BLUEHOST.COM
+Registry Admin ID: FAST-20690455 
+Admin Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Admin Organization: 
+Admin Street: 560 E TIMPANOGOS PKWY  
+Admin City: OREM
+Admin State/Province: UTAH
+Admin Postal Code: 84097
+Admin Country: US
+Admin Phone: +1.8017659400
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: WHOIS@BLUEHOST.COM
+Registry Tech ID: FAST-20690455 
+Tech Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Tech Organization: 
+Tech Street: 560 E TIMPANOGOS PKWY  
+Tech City: OREM
+Tech State/Province: UTAH
+Tech Postal Code: 84097
+Tech Country: US
+Tech Phone: +1.8017659400
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: WHOIS@BLUEHOST.COM
+Name Server: NS1.BLUEHOST.COM
+Name Server: NS2.BLUEHOST.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-10-05T15:57:54Z <<<
+
+Domain Name: UP4X.COM
+Registry Domain ID: 2065453740_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.bluehost.com
+Registrar URL: http://www.bluehost.com/
+Updated Date: 2017-10-05T15:57:54Z
+Creation Date: 2016-10-11T19:03:28Z
+Registrar Registration Expiration Date: 2018-10-11T19:03:28Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email: abuse@bluehost.com
+Registrar Abuse Contact Phone: +1.8017659400
+Reseller: BlueHost.Com
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: FAST-20690455 
+Registrant Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Organization: 
+Registrant Street: 560 E TIMPANOGOS PKWY  
+Registrant City: OREM
+Registrant State/Province: UTAH
+Registrant Postal Code: 84097
+Registrant Country: US
+Registrant Phone: +1.8017659400
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: WHOIS@BLUEHOST.COM
+Registry Admin ID: FAST-20690455 
+Admin Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Admin Organization: 
+Admin Street: 560 E TIMPANOGOS PKWY  
+Admin City: OREM
+Admin State/Province: UTAH
+Admin Postal Code: 84097
+Admin Country: US
+Admin Phone: +1.8017659400
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: WHOIS@BLUEHOST.COM
+Registry Tech ID: FAST-20690455 
+Tech Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Tech Organization: 
+Tech Street: 560 E TIMPANOGOS PKWY  
+Tech City: OREM
+Tech State/Province: UTAH
+Tech Postal Code: 84097
+Tech Country: US
+Tech Phone: +1.8017659400
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: WHOIS@BLUEHOST.COM
+Name Server: NS1.BLUEHOST.COM
+Name Server: NS2.BLUEHOST.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-10-05T15:57:54Z <<<
+

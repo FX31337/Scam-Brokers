@@ -1,0 +1,89 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      207.0.0.0 - 207.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      1995-11
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 207.174.213.34"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=207.174.213.34?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       207.174.212.0 - 207.174.215.255
+CIDR:           207.174.212.0/22
+NetName:        PUBLICDOMAINREGISTRY-NETWORKS
+NetHandle:      NET-207-174-212-0-1
+Parent:         NET207 (NET-207-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS40034
+Organization:   PDR (PSUL-1)
+RegDate:        2015-03-20
+Updated:        2016-11-23
+Ref:            https://whois.arin.net/rest/net/NET-207-174-212-0-1
+
+
+OrgName:        PDR
+OrgId:          PSUL-1
+Address:        P.D.R Solutions LLC, 10, Corporate Drive, Suite 300
+City:           Burlington
+StateProv:      MA
+PostalCode:     01803
+Country:        US
+RegDate:        2015-08-04
+Updated:        2015-11-24
+Ref:            https://whois.arin.net/rest/org/PSUL-1
+
+
+OrgTechHandle: TECH953-ARIN
+OrgTechName:   Tech
+OrgTechPhone:  +1-415-230-0680 
+OrgTechEmail:  ipadmin@publicdomainregistry.com
+OrgTechRef:    https://whois.arin.net/rest/poc/TECH953-ARIN
+
+OrgNOCHandle: NOC32406-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-415-230-0680 
+OrgNOCEmail:  noc@publicdomainregistry.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/NOC32406-ARIN
+
+OrgAbuseHandle: ABUSE5185-ARIN
+OrgAbuseName:   Abuse Admin
+OrgAbusePhone:  +1-415-230-0648 
+OrgAbuseEmail:  abuse@publicdomainregistry.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/ABUSE5185-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

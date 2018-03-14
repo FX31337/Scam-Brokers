@@ -1,0 +1,146 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      13.0.0.0 - 13.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1991-09
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 13.229.158.86"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=13.229.158.86?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       13.228.0.0 - 13.239.255.255
+CIDR:           13.232.0.0/13, 13.228.0.0/14
+NetName:        AT-88-Z
+NetHandle:      NET-13-228-0-0-1
+Parent:         NET13 (NET-13-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Amazon Technologies Inc. (AT-88-Z)
+RegDate:        2016-08-09
+Updated:        2016-08-09
+Ref:            https://whois.arin.net/rest/net/NET-13-228-0-0-1
+
+
+
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+RegDate:        2011-12-08
+Updated:        2017-01-28
+Comment:        All abuse reports MUST include:
+Comment:        * src IP
+Comment:        * dest IP (your IP)
+Comment:        * dest port
+Comment:        * Accurate date/timestamp and timezone of activity
+Comment:        * Intensity/frequency (short log extracts)
+Comment:        * Your contact details (phone and email) Without these we will be unable to identify the correct owner of the IP address at that point in time.
+Ref:            https://whois.arin.net/rest/org/AT-88-Z
+
+
+OrgTechHandle: ANO24-ARIN
+OrgTechName:   Amazon EC2 Network Operations
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  amzn-noc-contact@amazon.com
+OrgTechRef:    https://whois.arin.net/rest/poc/ANO24-ARIN
+
+OrgAbuseHandle: AEA8-ARIN
+OrgAbuseName:   Amazon EC2 Abuse
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  abuse@amazonaws.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/AEA8-ARIN
+
+OrgNOCHandle: AANO1-ARIN
+OrgNOCName:   Amazon AWS Network Operations
+OrgNOCPhone:  +1-206-266-4064 
+OrgNOCEmail:  amzn-noc-contact@amazon.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/AANO1-ARIN
+
+# end
+
+
+# start
+
+NetRange:       13.228.0.0 - 13.229.255.255
+CIDR:           13.228.0.0/15
+NetName:        AMAZON-SIN
+NetHandle:      NET-13-228-0-0-2
+Parent:         AT-88-Z (NET-13-228-0-0-1)
+NetType:        Reallocated
+OriginAS:       AS16509
+Organization:   Amazon Data Services Singapore (ADSS-3)
+RegDate:        2017-03-10
+Updated:        2018-02-27
+Ref:            https://whois.arin.net/rest/net/NET-13-228-0-0-2
+
+
+OrgName:        Amazon Data Services Singapore
+OrgId:          ADSS-3
+Address:        Bedok Central Post Office
+Address:        PO Box 482
+City:           Singapore
+StateProv:      
+PostalCode:     049481
+Country:        SG
+RegDate:        2015-12-09
+Updated:        2015-12-09
+Ref:            https://whois.arin.net/rest/org/ADSS-3
+
+
+OrgAbuseHandle: IPMAN40-ARIN
+OrgAbuseName:   IP Management
+OrgAbusePhone:  +1-206-266-4064 
+OrgAbuseEmail:  ipmanagement@amazon.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/IPMAN40-ARIN
+
+OrgTechHandle: IPMAN40-ARIN
+OrgTechName:   IP Management
+OrgTechPhone:  +1-206-266-4064 
+OrgTechEmail:  ipmanagement@amazon.com
+OrgTechRef:    https://whois.arin.net/rest/poc/IPMAN40-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

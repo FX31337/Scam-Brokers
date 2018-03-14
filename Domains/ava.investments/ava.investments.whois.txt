@@ -1,0 +1,112 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.investments
+
+domain:       INVESTMENTS
+
+organisation: Holly Glen, LLC
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Ben Levac
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       ben@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     62899 8 2 ADD0B7EA23FC0C83D7C3FFA565E2160471297CCE3F26AA20A98B67549B18E40D
+ds-rdata:     62899 8 1 374F74D5EC90D6B6C42822F50AED3C8C6E92F9C6
+
+whois:        whois.nic.investments
+
+status:       ACTIVE
+remarks:      Registration information: http://www.donuts.domains/
+
+created:      2014-04-17
+changed:      2018-03-07
+source:       IANA
+
+Domain Name: ava.investments
+Registry Domain ID: 397bf609b28e47e18abbccd0add71690-DONUTS
+Registrar WHOIS Server: who.godaddy.com/
+Registrar URL: http://www.godaddy.com/domains/search.aspx?ci=8990
+Updated Date: 2017-11-08T12:34:41Z
+Creation Date: 2017-11-03T12:33:50Z
+Registry Expiry Date: 2018-11-03T12:33:50Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 61fad73285b240f487c7293721c38a7d-DONUTS
+Registrant Name: Uldis Freibergs
+Registrant Organization: Bauman LTD
+Registrant Street: Trust company complex Majuro Ajeltake Islands
+Registrant City: Majuro
+Registrant State/Province: 
+Registrant Postal Code: MH96960
+Registrant Country: MH
+Registrant Phone: +44.2037699149
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: admin@ava.investments
+Registry Admin ID: 800887202b154548869236f6a9268eb9-DONUTS
+Admin Name: Uldis Freibergs
+Admin Organization: Bauman LTD
+Admin Street: Trust company complex Majuro Ajeltake Islands
+Admin City: Majuro
+Admin State/Province: 
+Admin Postal Code: MH96960
+Admin Country: MH
+Admin Phone: +44.2037699149
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: admin@ava.investments
+Registry Tech ID: b393dd2298664bec92d5669032be9992-DONUTS
+Tech Name: Uldis Freibergs
+Tech Organization: Bauman LTD
+Tech Street: Trust company complex Majuro Ajeltake Islands
+Tech City: Majuro
+Tech State/Province: 
+Tech Postal Code: MH96960
+Tech Country: MH
+Tech Phone: +44.2037699149
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: admin@ava.investments
+Name Server: ns37.domaincontrol.com
+Name Server: ns38.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-03-12T21:18:53Z <<<
+

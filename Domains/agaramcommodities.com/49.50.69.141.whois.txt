@@ -1,0 +1,72 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      49.0.0.0 - 49.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2010-08
+source:       IANA
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '49.50.68.0 - 49.50.71.255'
+
+% Abuse contact for '49.50.68.0 - 49.50.71.255' is 'apnic@cyfuture.com'
+
+inetnum:        49.50.68.0 - 49.50.71.255
+netname:        CYFUTURE-IN
+descr:          nsd@cyfuture.com
+descr:          SDF G-13/14,Noida Special Economic Zone,Noida Dadri Road , Phase II , Noida INDIA
+country:        IN
+admin-c:        CFIP1-AP
+tech-c:         CFIP1-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-CYFUTURE-IN
+mnt-irt:        IRT-CYFUTURE-IN
+last-modified:  2017-03-01T08:30:25Z
+source:         APNIC
+
+irt:            IRT-CYFUTURE-IN
+address:        SDF G-13/14,Noida Special Economic Zone,Noida Dadri Road , Phase II , Noida INDIA
+e-mail:         apnic@cyfuture.com
+abuse-mailbox:  apnic@cyfuture.com
+admin-c:        CFIP1-AP
+tech-c:         CFIP1-AP
+auth:           # Filtered
+mnt-by:         MAINT-CYFUTURE-IN
+last-modified:  2017-03-01T08:38:39Z
+source:         APNIC
+
+role:           CYBER FUTURISTICS INDIA PVT LTD
+address:        SDF G-13/14,Noida Special Economic Zone,Noida Dadri Road , Phase II , Noida INDIA
+country:        IN
+phone:          +911206667720
+fax-no:         +911206667766
+e-mail:         apnic@cyfuture.com
+admin-c:        CFIP1-AP
+tech-c:         CFIP1-AP
+nic-hdl:        CFIP1-AP
+mnt-by:         MAINT-CYFUTURE-IN
+remarks:        Visit www.go4hosting.com for more details
+last-modified:  2011-09-30T08:47:29Z
+source:         APNIC
+
+% Information related to '49.50.64.0/18AS55470'
+
+route:          49.50.64.0/18
+descr:          CYFUTURE-VSNL-OBJECT
+origin:         AS55470
+mnt-by:         MAINT-CYFUTURE-IN
+last-modified:  2010-11-09T07:52:18Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-43 (WHOIS-JP4)
+
+

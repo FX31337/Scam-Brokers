@@ -1,0 +1,91 @@
+--- Raw data build by RegistryDB on Thu, 11 Jan 2018 04:41:47 -0600 ---
+
+Domain Name : xtradefx.com
+Registrar Name : PDR Ltd. d/b/a PublicDomainRegistry.com
+Contact Email : nav3m@live.com
+Whois Server : whois.PublicDomainRegistry.com
+Name Servers : DNS3.PARKPAGE.FOUNDATIONAPI.COM|DNS4.PARKPAGE.FOUNDATIONAPI.COM|
+Created Date : 2018-01-08T10:30:54Z
+Updated Date : 2018-01-08T10:30:54Z
+Expires Date : 2019-01-08T10:30:54Z
+Standard Reg Created Date : 2018-01-08 10:30:54 UTC
+Standard Reg Updated Date : 2018-01-08 10:30:54 UTC
+Standard Reg Expires Date : 2019-01-08 10:30:54 UTC
+Status : clientTransferProhibited
+Audit Updated Date : 2018-01-09 08:00:00 UTC
+Registrant Email : nav3m@live.com
+Registrant Name : Naveen Margan
+Registrant Organization : 
+Registrant Street 1 : 47samanagar
+Registrant Street 2 : 
+Registrant Street 3 : 
+Registrant Street 4 : 
+Registrant City : tpt
+Registrant State : Tamil Nadu
+Registrant Postal Code : 635601
+Registrant Country : INDIA
+Registrant Fax : 
+Registrant Fax Ext : 
+Registrant Telephone : 919600437009
+Registrant Telephone Ext : 
+Administrative Contact Email : nav3m@live.com
+Administrative Contact Name : Naveen Margan
+Administrative Contact Organization : 
+Administrative Contact Street 1 : 47samanagar
+Administrative Contact Street 2 : 
+Administrative Contact Street 3 : 
+Administrative Contact Street 4 : 
+Administrative Contact City : tpt
+Administrative Contact State : Tamil Nadu
+Administrative Contact Postal Code : 635601
+Administrative Contact Country : INDIA
+Administrative Contact Fax : 
+Administrative Contact Fax Ext : 
+Administrative Contact Telephone : 919600437009
+Administrative Contact Telephone Ext : 
+Billing Contact Email : 
+Billing Contact Name : 
+Billing Contact Organization : 
+Billing Contact Street 1 : 
+Billing Contact Street 2 : 
+Billing Contact Street 3 : 
+Billing Contact Street 4 : 
+Billing Contact City : 
+Billing Contact State : 
+Billing Contact Postal Code : 
+Billing Contact Country : 
+Billing Contact Fax : 
+Billing Contact Fax Ext : 
+Billing Contact Telephone : 
+Billing Contact Telephone Ext : 
+Technical Contact Email : nav3m@live.com
+Technical Contact Name : Naveen Margan
+Technical Contact Organization : 
+Technical Contact Street 1 : 47samanagar
+Technical Contact Street 2 : 
+Technical Contact Street 3 : 
+Technical Contact Street 4 : 
+Technical Contact City : tpt
+Technical Contact State : Tamil Nadu
+Technical Contact Postal Code : 635601
+Technical Contact Country : INDIA
+Technical Contact Fax : 
+Technical Contact Fax Ext : 
+Technical Contact Telephone : 919600437009
+Technical Contact Telephone Ext : 
+Zone Contact Email : 
+Zone Contact Name : 
+Zone Contact Organization : 
+Zone Contact Street 1 : 
+Zone Contact Street 2 : 
+Zone Contact Street 3 : 
+Zone Contact Street 4 : 
+Zone Contact City : 
+Zone Contact State : 
+Zone Contact Postal Code : 
+Zone Contact Country : 
+Zone Contact Fax : 
+Zone Contact Fax Ext : 
+Zone Contact Telephone : 
+Zone Contact Telephone Ext : 
+Registrar IANAID : 303

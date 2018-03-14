@@ -1,0 +1,84 @@
+Domain Name: AVAINVESTIMENTS.COM
+Registry Domain ID: 2145354234_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2017-10-05T08:44:08Z
+Creation Date: 2017-07-21T14:37:10Z
+Registrar Registration Expiration Date: 2020-07-21T14:37:10Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Uldis Freibergs
+Registrant Organization: Bauman LTD
+Registrant Street: Trust company complex,
+Registrant Street: Ajeltake road, Ajeltake Islands, Majuro
+Registrant City: Majuro
+Registrant State/Province: Ajeltake Islands
+Registrant Postal Code: MH96960
+Registrant Country: MH
+Registrant Phone: +1.25222420
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: joshuapartnersltd@gmail.com
+Registry Admin ID: 
+Admin Name: Uldis Freibergs
+Admin Organization: Bauman LTD
+Admin Street: Trust company complex,
+Admin Street: Ajeltake road, Ajeltake Islands, Majuro
+Admin City: Majuro
+Admin State/Province: Ajeltake Islands
+Admin Postal Code: MH96960
+Admin Country: MH
+Admin Phone: +1.25222420
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: joshuapartnersltd@gmail.com
+Registry Tech ID: 
+Tech Name: Uldis Freibergs
+Tech Organization: Bauman LTD
+Tech Street: Trust company complex,
+Tech Street: Ajeltake road, Ajeltake Islands, Majuro
+Tech City: Majuro
+Tech State/Province: Ajeltake Islands
+Tech Postal Code: MH96960
+Tech Country: MH
+Tech Phone: +1.25222420
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: joshuapartnersltd@gmail.com
+Name Server: NS37.DOMAINCONTROL.COM
+Name Server: NS38.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-12T21:00:00Z <<< 
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data contained in GoDaddy.com, LLC's WHOIS database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy. This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC. By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty. In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+solicitations of any kind, including spam. You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section. In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.

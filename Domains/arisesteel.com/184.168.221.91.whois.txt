@@ -1,0 +1,111 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      184.0.0.0 - 184.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2008-12
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 184.168.221.91"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=184.168.221.91?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       184.168.0.0 - 184.168.255.255
+CIDR:           184.168.0.0/16
+NetName:        GO-DADDY-COM-LLC
+NetHandle:      NET-184-168-0-0-1
+Parent:         NET184 (NET-184-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS26496
+Organization:   GoDaddy.com, LLC (GODAD)
+RegDate:        2010-09-21
+Updated:        2014-02-25
+Comment:        Please send abuse complaints to abuse@godaddy.com
+Ref:            https://whois.arin.net/rest/net/NET-184-168-0-0-1
+
+
+
+OrgName:        GoDaddy.com, LLC
+OrgId:          GODAD
+Address:        14455 N Hayden Road
+Address:        Suite 226
+City:           Scottsdale
+StateProv:      AZ
+PostalCode:     85260
+Country:        US
+RegDate:        2007-06-01
+Updated:        2014-09-10
+Comment:        Please send abuse complaints to abuse@godaddy.com
+Ref:            https://whois.arin.net/rest/org/GODAD
+
+
+OrgAbuseHandle: ABUSE51-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-480-624-2505 
+OrgAbuseEmail:  abuse@godaddy.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/ABUSE51-ARIN
+
+OrgTechHandle: NOC124-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-480-505-8809 
+OrgTechEmail:  noc@godaddy.com
+OrgTechRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+OrgNOCHandle: NOC124-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-480-505-8809 
+OrgNOCEmail:  noc@godaddy.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+RTechHandle: NOC124-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-480-505-8809 
+RTechEmail:  noc@godaddy.com
+RTechRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+RNOCHandle: NOC124-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-480-505-8809 
+RNOCEmail:  noc@godaddy.com
+RNOCRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+RAbuseHandle: ABUSE51-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-480-624-2505 
+RAbuseEmail:  abuse@godaddy.com
+RAbuseRef:    https://whois.arin.net/rest/poc/ABUSE51-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

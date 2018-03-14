@@ -1,0 +1,84 @@
+Domain Name: FXMARKETPRO.COM
+Registry Domain ID: 2131223517_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2017-10-05T08:44:11Z
+Creation Date: 2017-06-06T15:56:39Z
+Registrar Registration Expiration Date: 2018-06-06T15:56:39Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Berdia Tsutskiridze
+Registrant Organization: Thinking Ahead LTD
+Registrant Street: Trust company complex, Ajeltake road
+Registrant Street: Ajeltake Islands
+Registrant City: Majuro
+Registrant State/Province: 
+Registrant Postal Code: MH96960
+Registrant Country: MH
+Registrant Phone: +44.2037699149
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: fxmarketpro@fxmarketpro.com
+Registry Admin ID: 
+Admin Name: Berdia Tsutskiridze
+Admin Organization: Thinking Ahead LTD
+Admin Street: Trust company complex, Ajeltake road
+Admin Street: Ajeltake Islands
+Admin City: Majuro
+Admin State/Province: 
+Admin Postal Code: MH96960
+Admin Country: MH
+Admin Phone: +44.2037699149
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: fxmarketpro@fxmarketpro.com
+Registry Tech ID: 
+Tech Name: Berdia Tsutskiridze
+Tech Organization: Thinking Ahead LTD
+Tech Street: Trust company complex, Ajeltake road
+Tech Street: Ajeltake Islands
+Tech City: Majuro
+Tech State/Province: 
+Tech Postal Code: MH96960
+Tech Country: MH
+Tech Phone: +44.2037699149
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: fxmarketpro@fxmarketpro.com
+Name Server: NS49.DOMAINCONTROL.COM
+Name Server: NS50.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-12T21:00:00Z <<< 
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data contained in GoDaddy.com, LLC's WHOIS database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy. This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC. By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty. In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+solicitations of any kind, including spam. You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section. In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.

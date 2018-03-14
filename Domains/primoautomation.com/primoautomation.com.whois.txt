@@ -1,0 +1,135 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.verisign-grs.com
+
+domain:       COM
+
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+
+contact:      administrative
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A.GTLD-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.GTLD-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.GTLD-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.GTLD-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.GTLD-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.GTLD-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.GTLD-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.GTLD-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.GTLD-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     30909 8 2 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CFC41A5766
+
+whois:        whois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.verisigninc.com
+
+created:      1985-01-01
+changed:      2017-10-05
+source:       IANA
+
+   Domain Name: PRIMOAUTOMATION.COM
+   Registry Domain ID: 75695277_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2011-08-12T11:24:52Z
+   Creation Date: 2001-08-05T06:08:43Z
+   Registry Expiry Date: 2020-08-05T06:08:43Z
+   Registrar: Network Solutions, LLC.
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2018-03-11T17:02:16Z <<<
+
+
+
+Domain Name: PRIMOAUTOMATION.COM
+Registry Domain ID: 75695277_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2017-08-19T02:04:14Z
+Creation Date: 2001-08-05T06:08:44Z
+Registrar Registration Expiration Date: 2020-08-05T04:00:00Z
+Registrar: NETWORK SOLUTIONS, LLC.
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+Reseller: 
+Domain Status: 
+Registry Registrant ID: 
+Registrant Name: Primo Automation Systems Pvt Ltd
+Registrant Organization: Primo Automation Systems Pvt Ltd
+Registrant Street: Flat no-F1, Block 1,182 Trunk Road,Porur
+Registrant City: Chennai
+Registrant State/Province: Tamil Nadu
+Registrant Postal Code: 600116
+Registrant Country: IN
+Registrant Phone: +1.91442495305
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: primoautomation@yahoo.com
+Registry Admin ID: 
+Admin Name: Primo Automation Systems Pvt Ltd
+Admin Organization: Primo Automation Systems Pvt Ltd
+Admin Street: Flat no-F1, Block 1,182 Trunk Road,Porur
+Admin City: Chennai
+Admin State/Province: Tamil Nadu
+Admin Postal Code: 600116
+Admin Country: IN
+Admin Phone: +1.91442495305
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: primoautomation@yahoo.com
+Registry Tech ID: 
+Tech Name: Network Solutions, LLC.
+Tech Organization: Network Solutions, LLC.
+Tech Street: 13861 SUNRISE VALLEY DR
+Tech City: HERNDON
+Tech State/Province: VA
+Tech Postal Code: 20171-6124
+Tech Country: US
+Tech Phone: +1.8886429675
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: customerservice@networksolutions.com
+Name Server: NS2.BLUEHOST.COM
+Name Server: NS1.BLUEHOST.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-11T17:02:27Z <<<
+
