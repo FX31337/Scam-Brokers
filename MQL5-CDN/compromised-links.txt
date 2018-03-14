@@ -1,0 +1,8 @@
+https://download.mql5.com/cdn/web/tradize.limited/mt4/tradize4setup.exe
+https://download.mql5.com/cdn/web/7770/mt4/topicmarkets4setup.exe
+https://download.mql5.com/cdn/web/8365/mt4/berryfin4setup.exe
+https://download.mql5.com/cdn/web/9383/mt4/4xbrands4setup.exe
+https://download.mql5.com/cdn/web/9881/mt4/2dots4setup.exe
+https://download.mql5.com/cdn/web/10413/mt4/strategicfuture4setup.exe
+https://download.mql5.com/cdn/web/11113/mt4/solidplus4setup.exe
+https://download.mql5.com/cdn/web/11349/mt4/suncapital4setup.exe
