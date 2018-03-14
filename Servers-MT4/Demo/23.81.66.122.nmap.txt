@@ -1,0 +1,18 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-10 16:36 GMT
+Nmap scan report for 23.81.66.122.rdns.pingpipe.com (23.81.66.122)
+Host is up (0.55s latency).
+Not shown: 990 filtered ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+53/tcp    open  domain
+443/tcp   open  https
+1001/tcp  open  webpush
+1002/tcp  open  windows-icfw
+1111/tcp  open  lmsocialserver
+3306/tcp  open  mysql
+3389/tcp  open  ms-wbt-server
+49154/tcp open  unknown
+49155/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 24.53 seconds

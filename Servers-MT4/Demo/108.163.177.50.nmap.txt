@@ -1,0 +1,11 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-10 16:33 GMT
+Nmap scan report for 108.163.177.50
+Host is up (0.14s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+443/tcp  open  https
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+
+Nmap done: 1 IP address (1 host up) scanned in 41.69 seconds

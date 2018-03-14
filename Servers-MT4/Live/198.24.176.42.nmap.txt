@@ -1,0 +1,24 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-10 16:35 GMT
+Nmap scan report for rdns.pingpipe.org (198.24.176.42)
+Host is up (0.44s latency).
+Not shown: 984 closed ports
+PORT      STATE    SERVICE
+19/tcp    filtered chargen
+25/tcp    filtered smtp
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+443/tcp   open     https
+1000/tcp  open     cadlock
+1060/tcp  open     polestar
+1061/tcp  open     kiosk
+3306/tcp  open     mysql
+3389/tcp  open     ms-wbt-server
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49156/tcp open     unknown
+49158/tcp open     unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 54.91 seconds

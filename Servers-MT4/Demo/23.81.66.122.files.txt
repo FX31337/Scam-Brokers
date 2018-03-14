@@ -1,0 +1,5 @@
+2dots-Demo.srv
+4xBrands-Demo.srv
+SolidPlus-Demo.srv
+StrategicFuture-Demo.srv
+SunCapital-Demo.srv

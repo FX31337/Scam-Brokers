@@ -1,0 +1,159 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      198.0.0.0 - 198.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+remarks:      198.18.0.0/15 reserved for Network Interconnect Device
+remarks:      Benchmark Testing [RFC2544]. Complete registration
+remarks:      details for 198.18.0.0/15 are found
+remarks:      iniana-ipv4-special-registry.198.51.100.0/24 reserved
+remarks:      for TEST-NET-2 [RFC5737]. Complete registration details
+remarks:      for 198.51.100.0/24 are found
+remarks:      iniana-ipv4-special-registry.
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 198.24.176.42"
+#
+# Use "?" to get help.
+#
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=198.24.176.42?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       198.24.176.40 - 198.24.176.47
+CIDR:           198.24.176.40/29
+NetName:        PINGPIPE-INTERNET-CORPORATION
+NetHandle:      NET-198-24-176-40-1
+Parent:         SECUREDSERVERS (NET-198-24-128-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   PingPipe Internet Corporation (PIC-163)
+RegDate:        2018-01-08
+Updated:        2018-01-08
+Ref:            https://whois.arin.net/rest/net/NET-198-24-176-40-1
+
+
+OrgName:        PingPipe Internet Corporation
+OrgId:          PIC-163
+Address:        2906 West Broadway
+Address:        Suite 416
+City:           Vancouver
+StateProv:      BC
+PostalCode:     V6K 2G8
+Country:        CA
+RegDate:        2011-07-14
+Updated:        2011-09-24
+Ref:            https://whois.arin.net/rest/org/PIC-163
+
+
+OrgAbuseHandle: GORMA64-ARIN
+OrgAbuseName:   Gorman, Bill 
+OrgAbusePhone:  +1-778-588-7464 
+OrgAbuseEmail:  hostmaster@pingpipe.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/GORMA64-ARIN
+
+OrgTechHandle: GORMA64-ARIN
+OrgTechName:   Gorman, Bill 
+OrgTechPhone:  +1-778-588-7464 
+OrgTechEmail:  hostmaster@pingpipe.com
+OrgTechRef:    https://whois.arin.net/rest/poc/GORMA64-ARIN
+
+# end
+
+
+# start
+
+NetRange:       198.24.128.0 - 198.24.191.255
+CIDR:           198.24.128.0/18
+NetName:        SECUREDSERVERS
+NetHandle:      NET-198-24-128-0-1
+Parent:         NET198 (NET-198-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS32164, AS20454
+Organization:   SECURED SERVERS LLC (SSL-65)
+RegDate:        2012-10-30
+Updated:        2013-07-26
+Ref:            https://whois.arin.net/rest/net/NET-198-24-128-0-1
+
+
+OrgName:        SECURED SERVERS LLC
+OrgId:          SSL-65
+Address:        2353 W University Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85281
+Country:        US
+RegDate:        2003-12-08
+Updated:        2017-01-28
+Ref:            https://whois.arin.net/rest/org/SSL-65
+
+ReferralServer:  rwhois://rwhois.securedservers.com:4321
+
+OrgAbuseHandle: ABUSE1536-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@securedservers.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/ABUSE1536-ARIN
+
+OrgTechHandle: IPADM294-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-480-422-2031 
+OrgTechEmail:  ipadmin@securedservers.com
+OrgTechRef:    https://whois.arin.net/rest/poc/IPADM294-ARIN
+
+RTechHandle: ADMIN2171-ARIN
+RTechName:   ADMIN
+RTechPhone:  +1-480-449-7750 
+RTechEmail:  support@securedservers.com
+RTechRef:    https://whois.arin.net/rest/poc/ADMIN2171-ARIN
+
+RNOCHandle: ADMIN2171-ARIN
+RNOCName:   ADMIN
+RNOCPhone:  +1-480-449-7750 
+RNOCEmail:  support@securedservers.com
+RNOCRef:    https://whois.arin.net/rest/poc/ADMIN2171-ARIN
+
+RAbuseHandle: ABUSE1536-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-480-422-2022 
+RAbuseEmail:  abuse@securedservers.com
+RAbuseRef:    https://whois.arin.net/rest/poc/ABUSE1536-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
