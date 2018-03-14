@@ -1,0 +1,33 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-10 23:28 GMT
+Nmap scan report for topicmarkets.biz (160.153.74.229)
+Host is up (0.41s latency).
+rDNS record for 160.153.74.229: ip-160-153-74-229.ip.secureserver.net
+Not shown: 976 filtered ports
+PORT      STATE  SERVICE
+21/tcp    open   ftp
+22/tcp    open   ssh
+26/tcp    closed rsftp
+80/tcp    open   http
+110/tcp   open   pop3
+143/tcp   open   imap
+443/tcp   open   https
+465/tcp   open   smtps
+587/tcp   open   submission
+993/tcp   open   imaps
+995/tcp   open   pop3s
+1248/tcp  open   hermes
+3306/tcp  open   mysql
+5222/tcp  closed xmpp-client
+50000/tcp closed ibm-db2
+50001/tcp closed unknown
+50002/tcp closed iiimsf
+50003/tcp closed unknown
+50006/tcp closed unknown
+50300/tcp closed unknown
+50389/tcp closed unknown
+50500/tcp closed unknown
+50636/tcp closed unknown
+50800/tcp closed unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 18.35 seconds

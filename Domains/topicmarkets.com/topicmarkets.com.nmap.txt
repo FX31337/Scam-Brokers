@@ -1,0 +1,18 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-10 23:27 GMT
+Nmap scan report for topicmarkets.com (52.220.168.112)
+Host is up (0.28s latency).
+rDNS record for 52.220.168.112: ec2-52-220-168-112.ap-southeast-1.compute.amazonaws.com
+Not shown: 991 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+53/tcp   open  domain
+80/tcp   open  http
+110/tcp  open  pop3
+143/tcp  open  imap
+443/tcp  open  https
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 15.00 seconds

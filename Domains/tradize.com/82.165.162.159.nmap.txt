@@ -1,0 +1,30 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-11 13:40 GMT
+Nmap scan report for 82.165.162.159
+Host is up (0.48s latency).
+Not shown: 978 filtered ports
+PORT     STATE  SERVICE
+22/tcp   closed ssh
+80/tcp   open   http
+443/tcp  open   https
+3389/tcp open   ms-wbt-server
+5800/tcp closed vnc-http
+5801/tcp closed vnc-http-1
+5802/tcp closed vnc-http-2
+5810/tcp closed unknown
+5811/tcp closed unknown
+5815/tcp closed unknown
+5900/tcp closed vnc
+5901/tcp closed vnc-1
+5902/tcp closed vnc-2
+5903/tcp closed vnc-3
+5904/tcp closed unknown
+5906/tcp closed unknown
+5907/tcp closed unknown
+5910/tcp closed cm
+5911/tcp closed cpdlc
+5915/tcp closed unknown
+8443/tcp open   https-alt
+9200/tcp closed wap-wsp
+
+Nmap done: 1 IP address (1 host up) scanned in 83.65 seconds

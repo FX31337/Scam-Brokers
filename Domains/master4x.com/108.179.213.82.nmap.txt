@@ -1,0 +1,21 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-11 13:40 GMT
+Nmap scan report for box5065.bluehost.com (108.179.213.82)
+Host is up (0.44s latency).
+Not shown: 927 filtered ports, 60 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+26/tcp   open  rsftp
+80/tcp   open  http
+110/tcp  open  pop3
+143/tcp  open  imap
+443/tcp  open  https
+465/tcp  open  smtps
+587/tcp  open  submission
+993/tcp  open  imaps
+995/tcp  open  pop3s
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 71.76 seconds

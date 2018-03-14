@@ -1,0 +1,17 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-11 13:40 GMT
+Nmap scan report for ec2-13-250-137-69.ap-southeast-1.compute.amazonaws.com (13.250.137.69)
+Host is up (0.28s latency).
+Not shown: 991 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+53/tcp   open  domain
+80/tcp   open  http
+110/tcp  open  pop3
+143/tcp  open  imap
+443/tcp  open  https
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 37.88 seconds

@@ -1,0 +1,26 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-11 13:40 GMT
+Nmap scan report for 108.167.172.183
+Host is up (0.43s latency).
+Not shown: 982 closed ports
+PORT     STATE    SERVICE
+19/tcp   filtered chargen
+21/tcp   open     ftp
+22/tcp   filtered ssh
+25/tcp   filtered smtp
+26/tcp   open     rsftp
+53/tcp   open     domain
+80/tcp   open     http
+110/tcp  open     pop3
+143/tcp  open     imap
+443/tcp  open     https
+465/tcp  open     smtps
+587/tcp  open     submission
+993/tcp  open     imaps
+995/tcp  open     pop3s
+2222/tcp open     EtherNetIP-1
+3306/tcp open     mysql
+8080/tcp open     http-proxy
+8443/tcp open     https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 57.40 seconds

@@ -1,0 +1,12 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2018-03-10 23:26 GMT
+Nmap scan report for terminalcdn.nsuite.in (13.33.28.88)
+Host is up (0.31s latency).
+Other addresses for terminalcdn.nsuite.in (not scanned): 13.33.28.38 13.33.28.190 13.33.28.98 13.33.28.43 13.33.28.227 13.33.28.216 13.33.28.9
+rDNS record for 13.33.28.88: server-13-33-28-88.nrt12.r.cloudfront.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 18.95 seconds
