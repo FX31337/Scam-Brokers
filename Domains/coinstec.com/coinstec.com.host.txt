@@ -1,0 +1,9 @@
+coinstec.com has address 104.20.55.175
+coinstec.com has address 104.20.54.175
+coinstec.com has IPv6 address 2400:cb00:2048:1::6814:37af
+coinstec.com has IPv6 address 2400:cb00:2048:1::6814:36af
+coinstec.com mail is handled by 5 alt1.aspmx.l.google.com.
+coinstec.com mail is handled by 5 alt2.aspmx.l.google.com.
+coinstec.com mail is handled by 10 aspmx2.googlemail.com.
+coinstec.com mail is handled by 10 aspmx3.googlemail.com.
+coinstec.com mail is handled by 1 aspmx.l.google.com.

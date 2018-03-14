@@ -1,0 +1,6 @@
+chronofm.com has address 45.40.162.199
+chronofm.com mail is handled by 5 alt1.aspmx.l.google.com.
+chronofm.com mail is handled by 5 alt2.aspmx.l.google.com.
+chronofm.com mail is handled by 1 aspmx.l.google.com.
+chronofm.com mail is handled by 10 aspmx2.googlemail.com.
+chronofm.com mail is handled by 10 aspmx3.googlemail.com.

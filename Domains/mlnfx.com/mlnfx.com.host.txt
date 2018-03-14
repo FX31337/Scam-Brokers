@@ -1,0 +1,6 @@
+mlnfx.com has address 52.51.125.146
+mlnfx.com mail is handled by 10 aspmx3.googlemail.com.
+mlnfx.com mail is handled by 1 aspmx.l.google.com.
+mlnfx.com mail is handled by 5 alt1.aspmx.l.google.com.
+mlnfx.com mail is handled by 5 alt2.aspmx.l.google.com.
+mlnfx.com mail is handled by 10 aspmx2.googlemail.com.

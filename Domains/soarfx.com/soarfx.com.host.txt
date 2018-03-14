@@ -1,0 +1,6 @@
+soarfx.com has address 52.51.125.146
+soarfx.com mail is handled by 30 alt3.aspmx.l.google.com.
+soarfx.com mail is handled by 30 alt4.aspmx.l.google.com.
+soarfx.com mail is handled by 20 alt2.aspmx.l.google.com.
+soarfx.com mail is handled by 10 aspmx.l.google.com.
+soarfx.com mail is handled by 20 alt1.aspmx.l.google.com.

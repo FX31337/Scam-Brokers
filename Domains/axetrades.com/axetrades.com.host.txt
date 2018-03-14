@@ -1,0 +1,4 @@
+axetrades.com has address 104.25.226.111
+axetrades.com has address 104.25.225.111
+axetrades.com has IPv6 address 2400:cb00:2048:1::6819:e26f
+axetrades.com has IPv6 address 2400:cb00:2048:1::6819:e16f

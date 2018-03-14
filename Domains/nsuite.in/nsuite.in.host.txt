@@ -1,0 +1,3 @@
+nsuite.in has address 13.228.124.201
+nsuite.in mail is handled by 10 mx.zoho.com.
+nsuite.in mail is handled by 20 mx2.zoho.com.

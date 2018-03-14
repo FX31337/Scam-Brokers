@@ -1,0 +1,6 @@
+crowstonecapital.com has address 104.28.16.242
+crowstonecapital.com has address 104.28.17.242
+crowstonecapital.com has IPv6 address 2400:cb00:2048:1::681c:10f2
+crowstonecapital.com has IPv6 address 2400:cb00:2048:1::681c:11f2
+crowstonecapital.com mail is handled by 10 mx.zoho.com.
+crowstonecapital.com mail is handled by 20 mx2.zoho.com.

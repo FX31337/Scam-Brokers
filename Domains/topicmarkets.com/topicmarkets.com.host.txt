@@ -1,0 +1,4 @@
+topicmarkets.com has address 52.220.168.112
+topicmarkets.com mail is handled by 50 mx3.zoho.com.
+topicmarkets.com mail is handled by 10 mx.zoho.com.
+topicmarkets.com mail is handled by 20 mx2.zoho.com.

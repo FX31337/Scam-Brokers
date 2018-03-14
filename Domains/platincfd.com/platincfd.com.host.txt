@@ -1,0 +1,6 @@
+platincfd.com has address 104.31.75.55
+platincfd.com has address 104.31.74.55
+platincfd.com has IPv6 address 2400:cb00:2048:1::681f:4a37
+platincfd.com has IPv6 address 2400:cb00:2048:1::681f:4b37
+platincfd.com mail is handled by 0 dc-364141ada039.platincfd.com.
+platincfd.com mail is handled by 0 platincfd-com.mail.protection.outlook.com.

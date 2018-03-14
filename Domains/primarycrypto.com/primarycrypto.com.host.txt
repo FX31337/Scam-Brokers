@@ -1,0 +1,9 @@
+primarycrypto.com has address 104.24.99.27
+primarycrypto.com has address 104.24.98.27
+primarycrypto.com has IPv6 address 2400:cb00:2048:1::6818:631b
+primarycrypto.com has IPv6 address 2400:cb00:2048:1::6818:621b
+primarycrypto.com mail is handled by 1 aspmx.l.google.com.
+primarycrypto.com mail is handled by 5 alt1.aspmx.l.google.com.
+primarycrypto.com mail is handled by 5 alt2.aspmx.l.google.com.
+primarycrypto.com mail is handled by 10 alt3.aspmx.l.google.com.
+primarycrypto.com mail is handled by 10 alt4.aspmx.l.google.com.

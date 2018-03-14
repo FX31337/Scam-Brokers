@@ -1,0 +1,9 @@
+stbinary.com has address 104.28.10.65
+stbinary.com has address 104.28.11.65
+stbinary.com has IPv6 address 2400:cb00:2048:1::681c:b41
+stbinary.com has IPv6 address 2400:cb00:2048:1::681c:a41
+stbinary.com mail is handled by 5 alt2.aspmx.l.google.com.
+stbinary.com mail is handled by 10 alt3.aspmx.l.google.com.
+stbinary.com mail is handled by 1 aspmx.l.google.com.
+stbinary.com mail is handled by 10 alt4.aspmx.l.google.com.
+stbinary.com mail is handled by 5 alt1.aspmx.l.google.com.

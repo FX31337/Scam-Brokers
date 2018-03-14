@@ -1,0 +1,10 @@
+goldenmarkets.com has address 104.18.33.76
+goldenmarkets.com has address 104.18.32.76
+goldenmarkets.com has IPv6 address 2400:cb00:2048:1::6812:214c
+goldenmarkets.com has IPv6 address 2400:cb00:2048:1::6812:204c
+goldenmarkets.com mail is handled by 10 alt3.aspmx.l.google.com.
+goldenmarkets.com mail is handled by 10 alt4.aspmx.l.google.com.
+goldenmarkets.com mail is handled by 5 alt1.aspmx.l.google.com.
+goldenmarkets.com mail is handled by 15 xxvbs3u54o3p6zcralkj72mujs6brl765usujlgqshbkkutkzeqa.mx-verification.google.com.
+goldenmarkets.com mail is handled by 5 alt2.aspmx.l.google.com.
+goldenmarkets.com mail is handled by 1 aspmx.l.google.com.

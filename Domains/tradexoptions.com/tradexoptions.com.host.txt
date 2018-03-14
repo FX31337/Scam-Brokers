@@ -1,0 +1,9 @@
+tradexoptions.com has address 104.31.77.17
+tradexoptions.com has address 104.31.76.17
+tradexoptions.com has IPv6 address 2400:cb00:2048:1::681f:4c11
+tradexoptions.com has IPv6 address 2400:cb00:2048:1::681f:4d11
+tradexoptions.com mail is handled by 1 aspmx.l.google.com.
+tradexoptions.com mail is handled by 5 alt1.aspmx.l.google.com.
+tradexoptions.com mail is handled by 5 alt2.aspmx.l.google.com.
+tradexoptions.com mail is handled by 10 aspmx2.googlemail.com.
+tradexoptions.com mail is handled by 10 aspmx3.googlemail.com.

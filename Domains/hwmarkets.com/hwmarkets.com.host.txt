@@ -1,0 +1,7 @@
+hwmarkets.com has address 104.18.43.181
+hwmarkets.com has address 104.18.42.181
+hwmarkets.com mail is handled by 5 alt1.aspmx.l.google.com.
+hwmarkets.com mail is handled by 10 alt3.aspmx.l.google.com.
+hwmarkets.com mail is handled by 10 alt4.aspmx.l.google.com.
+hwmarkets.com mail is handled by 5 alt2.aspmx.l.google.com.
+hwmarkets.com mail is handled by 1 aspmx.l.google.com.

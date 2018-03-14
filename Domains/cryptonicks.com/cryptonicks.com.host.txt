@@ -1,0 +1,9 @@
+cryptonicks.com has address 104.24.99.90
+cryptonicks.com has address 104.24.98.90
+cryptonicks.com has IPv6 address 2400:cb00:2048:1::6818:625a
+cryptonicks.com has IPv6 address 2400:cb00:2048:1::6818:635a
+cryptonicks.com mail is handled by 5 alt1.aspmx.l.google.com.
+cryptonicks.com mail is handled by 5 alt2.aspmx.l.google.com.
+cryptonicks.com mail is handled by 1 alt3.aspmx.l.google.com.
+cryptonicks.com mail is handled by 10 alt4.aspmx.l.google.com.
+cryptonicks.com mail is handled by 1 aspmx.l.google.com.

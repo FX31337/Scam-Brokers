@@ -1,0 +1,5 @@
+bancdetrust.com has address 104.27.139.37
+bancdetrust.com has address 104.27.138.37
+bancdetrust.com has IPv6 address 2400:cb00:2048:1::681b:8b25
+bancdetrust.com has IPv6 address 2400:cb00:2048:1::681b:8a25
+bancdetrust.com mail is handled by 10 mail.protonmail.ch.

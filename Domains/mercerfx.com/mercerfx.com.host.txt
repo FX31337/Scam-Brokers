@@ -1,0 +1,6 @@
+mercerfx.com has address 162.13.110.86
+mercerfx.com mail is handled by 10 aspmx3.googlemail.com.
+mercerfx.com mail is handled by 5 alt1.aspmx.l.google.com.
+mercerfx.com mail is handled by 10 aspmx2.googlemail.com.
+mercerfx.com mail is handled by 5 alt2.aspmx.l.google.com.
+mercerfx.com mail is handled by 1 aspmx.l.google.com.
