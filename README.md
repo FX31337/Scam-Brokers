@@ -31,11 +31,12 @@ If you believe you got scammed, find below suggested actions to take.
 
   - If they're hosted on GoDaddy, check on [GoDaddy WHOIS database][44] directly.
 
-In addition, if you're UK's citizen, you can:
+#### UK
 
 - Contact [Citizens Advice][45] consumer service to get an advice.
 - Complain to the [Ombudsman Association][46].
 - Contact [ConsumerLine][47] to make a complaint against a trader, report a fraud or ask about your consumer rights.
+- Open a fraud case with the [London Metropolitan Police Fraud Department](http://www.actionfraud.police.uk/).
 
 ### Litigation
 
