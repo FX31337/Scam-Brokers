@@ -1,0 +1,5 @@
+otcapital.com has address 104.25.68.112
+otcapital.com has address 104.25.67.112
+otcapital.com has IPv6 address 2400:cb00:2048:1::6819:4470
+otcapital.com has IPv6 address 2400:cb00:2048:1::6819:4370
+otcapital.com mail is handled by 0 otcapital-com.mail.protection.outlook.com.
